@@ -2,8 +2,7 @@ class Solution:
     def reverse(self, x: int) -> int:
         neg = x<0
         num = 0
-        if neg:
-            x *= -1
+        x = abs(x)
         while x > 0:
             q,r =  divmod(x,10)
             num = num*10 + r
