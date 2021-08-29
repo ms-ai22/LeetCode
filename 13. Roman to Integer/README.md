@@ -1,6 +1,5 @@
 # 13. Roman to Integer
-
-
+<br/>
 <div><p>Roman numerals are represented by seven different symbols:&nbsp;<code>I</code>, <code>V</code>, <code>X</code>, <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.</p>
 
 <pre><strong>Symbol</strong>       <strong>Value</strong>
@@ -66,5 +65,5 @@ M             1000</pre>
 	<li>It is <strong>guaranteed</strong>&nbsp;that <code>s</code> is a valid roman numeral in the range <code>[1, 3999]</code>.</li>
 </ul>
 </div>
-<br/>
-[Link to the question -](https://leetcode.com/problems/roman-to-integer/)
+<br/><br/>
+<strong>Link to the question - </strong>https://leetcode.com/problems/roman-to-integer/
