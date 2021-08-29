@@ -1,12 +1,12 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         brackets = {'(':')', '[':']', '{':'}'}
-        temp = []
+        stack = []
         for i in s:
             if i in '([{':
-                temp.append(brackets[i])
-            elif not temp or i!=temp[-1]:
+                stack.append(brackets[i])
+            elif not stack or i!=stack[-1]:
                 return False
-            elif i==temp[-1]:
-                temp.pop()
-        return not temp
+            elif i==stack[-1]:
+                stack.pop()
+        return not stack
