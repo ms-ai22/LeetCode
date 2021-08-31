@@ -1,6 +1,6 @@
 # 53. Maximum Subarray
 <br/>
-<div class="content__u3I1 question-content__JfgR"><div><p>Given an integer array <code>nums</code>, find the contiguous subarray (containing at least one number) which has the largest sum and return <em>its sum</em>.</p>
+<div><p>Given an integer array <code>nums</code>, find the contiguous subarray (containing at least one number) which has the largest sum and return <em>its sum</em>.</p>
 
 <p>A <strong>subarray</strong> is a <strong>contiguous</strong> part of an array.</p>
 
@@ -34,6 +34,6 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong> If you have figured out the <code>O(n)</code> solution, try coding another solution using the <strong>divide and conquer</strong> approach, which is more subtle.</p>
-</div></div>
+</div>
 <br/><br/>
 <strong>Link to the question - </strong>https://leetcode.com/problems/maximum-subarray/
