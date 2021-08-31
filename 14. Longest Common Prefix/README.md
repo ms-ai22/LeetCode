@@ -1,6 +1,6 @@
 # 14. Longest Common Prefix
 <br/>
-<div class="content__u3I1 question-content__JfgR"><div><p>Write a function to find the longest common prefix string amongst an array of strings.</p>
+<p>Write a function to find the longest common prefix string amongst an array of strings.</p>
 
 <p>If there is no common prefix, return an empty string <code>""</code>.</p>
 
@@ -26,6 +26,5 @@
 	<li><code>0 &lt;= strs[i].length &lt;= 200</code></li>
 	<li><code>strs[i]</code> consists of only lower-case English letters.</li>
 </ul>
-</div></div>
 <br/><br/>
 <strong>Link to the question - </strong>https://leetcode.com/problems/longest-common-prefix/
