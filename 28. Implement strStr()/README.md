@@ -1,6 +1,6 @@
 # 28. Implement strStr()
 <br/>
-<div class="content__u3I1 question-content__JfgR"><div><p>Implement <a href="http://www.cplusplus.com/reference/cstring/strstr/" target="_blank">strStr()</a>.</p>
+<div><p>Implement <a href="http://www.cplusplus.com/reference/cstring/strstr/" target="_blank">strStr()</a>.</p>
 
 <p>Return the index of the first occurrence of needle in haystack, or <code>-1</code> if <code>needle</code> is not part of <code>haystack</code>.</p>
 
@@ -28,6 +28,6 @@
 	<li><code>0 &lt;= haystack.length, needle.length &lt;= 5 * 10<sup>4</sup></code></li>
 	<li><code>haystack</code> and&nbsp;<code>needle</code> consist of only lower-case English characters.</li>
 </ul>
-</div></div>
+</div>
 <br/><br/>
 <strong>Link to the question - </strong>https://leetcode.com/problems/implement-strstr/
